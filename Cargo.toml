@@ -1,6 +1,6 @@
 [package]
-name = "mockchain-wallet-rs"
-version = "0.1.0"
+name = "mockallet"
+version = "0.1.1"
 edition = "2021"
 description = "A command-line interface for interacting with a mockchain network"
 authors = ["Sourav Mishra <sourav.m.bt@gmail.com>"]
