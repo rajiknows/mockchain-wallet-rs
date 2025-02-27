@@ -200,4 +200,4 @@ Please follow the [Rust code style guidelines](https://rust-lang.github.io/api-g
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xsouravm/mockchain-wallet-rs/blob/master/LICENSE) file for details.
