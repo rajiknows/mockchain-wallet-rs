@@ -3,9 +3,6 @@
 [![Crates.io](https://img.shields.io/crates/v/mockchain-wallet-rs)](https://crates.io/crates/mockchain-wallet-rs)
 [![Rust](https://img.shields.io/badge/rust-1.54.0%2B-orange)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/github/workflow/status/0xsouravm/mockchain-wallet-rs/CI)](https://github.com/0xsouravm/mockchain-wallet-rs/actions)
-[![Docs](https://img.shields.io/docsrs/mockchain-wallet-rs)](https://docs.rs/mockchain-wallet-rs)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A command-line interface for interacting with a [mockchain](https://github.com/0xsouravm/mockchain) network using a modular Rust architecture.
 
