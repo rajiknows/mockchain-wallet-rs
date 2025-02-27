@@ -9,7 +9,7 @@ repository = "https://github.com/0xsouravm/mockchain-wallet-rs"
 documentation = "https://docs.rs/mockchain-wallet-rs"
 readme = "README.md"
 keywords = ["blockchain", "wallet", "cryptocurrency", "cli"]
-categories = ["command-line-utilities", "cryptography", "wallet", "mockchain"]
+categories = ["command-line-utilities", "cryptography"]
 
 [dependencies]
 tonic = "0.10"
