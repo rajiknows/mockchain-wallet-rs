@@ -1,6 +1,6 @@
 # Mockchain Wallet CLI
 
-[![Crates.io](https://img.shields.io/crates/v/mockchain-wallet-rs)](https://crates.io/crates/mockallet)
+[![Crates.io](https://img.shields.io/crates/v/mockallet)](https://crates.io/crates/mockallet)
 [![Rust](https://img.shields.io/badge/rust-1.54.0%2B-orange)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
