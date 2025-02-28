@@ -2,11 +2,11 @@
 name = "mockallet"
 version = "0.1.1"
 edition = "2021"
-description = "A command-line interface for interacting with a mockchain network"
+description = "A command-line wallet interface for interacting with a mockchain network through gRPC."
 authors = ["Sourav Mishra <sourav.m.bt@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/0xsouravm/mockchain-wallet-rs"
-documentation = "https://docs.rs/mockchain-wallet-rs"
+documentation = "https://docs.rs/mockallet"
 readme = "README.md"
 keywords = ["blockchain", "wallet", "cryptocurrency", "cli"]
 categories = ["command-line-utilities", "cryptography"]
