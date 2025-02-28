@@ -61,7 +61,7 @@ cargo build --release
 
 ```bash
 # Install Directly
-cargo install mockchain-wallet-rs
+cargo install mockallet
 ```
 
 ## Quick Start
